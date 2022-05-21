@@ -1,0 +1,341 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+/* Main Color */
+:root {
+	--lightgreen: #C5BDFF;
+	--poppins: 'Poppins', sans-serif;
+	--black: #000000;
+	--abril: 'Abril Fatface', cursive;
+	--lato: 'Lato', sans-serif;
+	--green: #84a950;
+	--darkgray: #6E6C78;
+	--white: #FFFFFF;
+	--lightgray: #898796;
+}
+
+/*Navbar*/
+.navbar {
+	font-family: var(--poppins);
+}
+.nav-scrolled {
+	background: #E4E1D5 !important;
+}
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+	outline: none;
+	box-shadow: none;
+}
+.navbar .container-fluid .navbar-item {
+	font-size: 28.5px;
+	letter-spacing: 2px;
+	font-weight: 550;
+	color: #245027;
+	text-decoration: none;
+}
+.navbar .container-fluid .span {
+	color: var(--green)
+}
+.navbar .navbar-nav .nav-item a {
+	font-weight: 400;
+	font-size: 20px;
+	text-transform: uppercase;
+	color: black;
+}
+.d-flex .btn {
+	font-size: 15px;
+	background-color: #245027;
+	border-radius: 50px;
+	color: var(--white);
+	text-transform: uppercase;
+	padding: 13px 19px;
+}
+
+/*jumbotron*/
+.jumbotron .text {
+	padding-bottom: 6rem;
+}
+.jumbotron {
+	background-image: url(../img/ijooo.jpg);
+	background-size: cover;
+	height: 88vh;
+	margin-top: -70px;
+	background-position: center;
+}
+.jumbotron .text h1 {
+	text-transform: capitalize;
+	font-family: var(--poppins);
+	font-size: 75px;
+	color: black;
+	overflow: hidden;
+}
+.jumbotron .text h1 .cursor {
+	display: inline-block;
+	background-color: rgb(120, 151, 73);
+	margin-left: 0.1rem;
+	width: 3px;
+	animation: blink 1s infinite;
+}
+.jumbotron .text span {
+	color: var(--green);
+}
+.jumbotron .text h3 {
+	text-transform: capitalize;
+	font-family: var(--poppins);
+	font-size: 24px;
+	font-weight: 400;
+	display: flex;
+	padding-bottom: 25px;
+}
+.jumbotron .sosial-media a {
+	text-decoration: none;
+	color: var(--lightgray);
+	padding-right: 25px;
+	width: 50px;
+	height: 50px;
+}
+
+/*About*/
+#about {
+	padding-bottom: 4rem;
+}
+.text-about {
+	padding-top: 5rem;
+}
+.text-about h1 {
+	text-align: center;
+	font-family: var(--abril);
+	font-size: 45px;
+	padding-bottom: 20px;
+}
+.text-about span {
+	color: var(--green);
+}
+.text-about p {
+	font-family: var(--poppins);
+	font-size: 16px;
+	text-transform: none;
+	text-align: justify;
+}
+.about-img {
+	padding-top: 2rem;
+}
+
+/* artikel*/
+.section-header {
+	position: relative;
+	max-width: 600px;
+	margin: 0 auto;
+	margin-bottom: 45px;
+}
+
+.section-header h2 {
+	margin: 0;
+	position: relative;
+	font-size: 40px;
+	font-weight: 700;
+}
+
+/*My skill*/
+#skills{
+	padding: 4rem 0;
+	background-size: cover;
+	color: var(--green);
+}
+.title-skills h1{
+	font-size: 65px;
+	text-align: center;
+	font-family: var(--abril);
+	font-size: 50px;
+	padding-bottom: 4rem;
+}
+.main-card p {
+	color: var(--black);
+	font-family: var(--poppins);
+	font-size: 15px;
+	padding-bottom: 20px;
+}
+#skills .container-fluid .gambar-skills .col-lg-3{
+	padding-bottom: 2rem;
+}
+.gambar-skills{
+	padding-left: 4rem;
+}
+
+
+/*Artikel*/
+.blog {
+	position: relative;
+	width: 100%;
+	padding: 45px 0;
+}
+.blog .blog-carousel {
+	position: relative;
+	width: calc(100% + 30px);
+	left: -15px;
+	right: -15px;
+}
+.blog .blog-item {
+	position: relative;
+	margin: 0 15px;
+}
+
+.blog .blog-page .blog-item {
+	margin: 0 0 30px 0;
+}
+
+.blog .blog-img {
+	position: relative;
+	width: 100%;
+}
+
+.blog .blog-img img {
+	width: 100%;
+	}
+
+.blog .blog-text h2 {
+		font-size: 22px;
+		font-weight: 600;
+	}
+	.blog .blog-text p {
+		margin-bottom: 10px;
+	}
+	.blog .blog-item a.btn {
+		padding: 0;
+		font-size: 14px;
+		font-weight: 700;
+		color: #56a557;
+	}
+	.blog .blog-item a.btn i {
+		margin-left: 5px;
+	}
+	.blog .blog-item a.btn:hover {
+		color: #1b703c;
+	}
+	.blog .blog-meta {
+		position: relative;
+		display: flex;
+		margin-bottom: 15px;
+	}
+	.blog .blog-meta p {
+		margin: 0 10px 0 0;
+		font-size: 13px;
+	}
+	.blog .blog-meta i {
+		margin-right: 5px;
+	}
+
+/*deskop biasa*/
+@media (min-width: 992px) {
+	/*navbar*/
+	.navbar {
+		padding: 0.5rem 3rem;
+		background: transparent;
+	}
+	.navbar .navbar-nav .nav-item {
+		padding: 3px 10px;
+	}
+	.navbar .navbar-nav .nav-item a {
+		background: linear-gradient(to right, var(--green), var(--lightgreen));
+		background-size: 200%;
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+	}
+
+	/* jumbotron */
+	.jumbotron .text {
+		padding-left: 4rem;
+		top: 36%;
+		position: absolute;
+	}
+	.jumbotron .text h1 {
+		text-transform: capitalize;
+		font-family: var(--poppins);
+		font-size: 85px;
+		color: black;
+	}
+	.jumbotron .text h3 {
+		text-transform: capitalize;
+		font-family: var(--lato);
+		font-size: 26px;
+		font-weight: 400;
+		display: flex;
+		padding-bottom: 25px;
+	}
+	.jumbotron .sosial-media a {
+		text-decoration: none;
+		color: var(--lightgray);
+		padding-right: 25px;
+		width: 70px;
+		height: 70px;
+	}
+	.jumbotron .sosial-media a:hover {
+		color: var(--green);
+	}
+
+	/*About*/
+	.text-about {
+		padding: 10rem 0 0 4rem;
+	}
+	.text-about h1 {
+		font-size: 65px;
+	}
+	.text-about span {
+		color: var(--green);
+	}
+	.text-about p {
+		font-size: 25px;
+	}
+	.about-img {
+		padding-top: 5rem;
+	}
+
+/*project*/
+#project{
+	padding: 5rem 0;
+}
+#carouselExampleFade .carousel-control-prev{
+	background-color: var(--lightgreen);
+	border-radius: 50%;
+	height: 59px;
+	width: 60.5px;
+	top: 45%;
+	left: 5%;
+}
+#carouselExampleFade .carousel-control-next{
+	background-color: var(--lightgreen);
+	border-radius: 50%;
+	height: 59px;
+	width: 60.5px;
+	top: 45%;
+	right: 5%;
+}
+.title-project h1{
+	text-align: center;
+	font-family: var(--abril);
+	font-size: 50px;
+	padding-bottom: 3rem;
+}
+.title-project span{
+	color: var(--green);
+}
+#carouselExampleFad e .carousel-inner .carousel-item img{
+	height: 80vh;
+} 
+
+
+/* Footer */
+footer {
+	background-color: #A1CF75;
+	font-size: 15px;
+}
+
+.footer a {
+	text-decoration: none;
+	font-family: var(--poppins);
+}

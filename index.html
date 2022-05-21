@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- CSS-->
+  <link rel="stylesheet" href="./css/style01.css">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" 
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" 
+      crossorigin="anonymous">
+  <!-- Bootstrap Icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
+
+  <!--Google Font-->
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">  <!-- Abril Fatface -->
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com"> <!--poppins-->
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <title>Portofolio Sheila</title>
+</head>
+
+<body id="app">
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container-fluid">
+      <a class="navbar-item" href="#">{{navbar.judul}}<span class="span">{{navbar.nim}}</span></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mb-2 mb-lg-0 ms-auto">
+          <form class="d-flex">
+            <a aria-current="page" href="#home" class="btn">{{navbar.home}}</a>
+          </form>
+          <li v-for="nav in navbar.l" class="nav-item">
+            <a class="nav-link" href="#about">{{nav.j}}</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- Akhir Navbar -->
+
+  <!-- Header -->
+  <section id="home">
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container-fluid text">
+        <h1 class="h1">{{desc1}}<span class="span Sheila typed-text"></span><span class="cursor">&nbsp;</span></h1>
+        <h3>{{desc2}}</h3>
+        <!-- Sosial Media -->
+        <div class="sosial-media">
+          <a v-for="connect in socmed" :href="connect.url" target="blank"><i :class="connect.gmb"></i></a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Akhir Header -->
+
+  <!-- About -->
+  <section id="about">
+    <div class="container-fluid">
+      <div class="row justify-content-center d-flex align-items-center">
+        <div class="col-lg-6 col-md-12 justify-content-center d-flex align-items-center">
+          <div class="text-capitalize text-about">
+            <h1>{{tentang.judul1}}<span>{{tentang.judul2}}</span></h1>
+            <br>
+            <p>{{tentang.desc}}</p>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-12 justify-content-center d-flex align-items-center">
+          <div class="about-img">
+            <img src="img/sela01.jpg" class="img-fluid" alt="" width="400">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+<!-- Akhir About -->
+
+<!-- My Skills -->
+    <section id="skills">
+      <div class="container-fluid">
+        <div class="title-skills">
+          <h1><span> {{skill}}</span></h1>
+        </div>
+        <div class="row gambar-skills">
+          <div class="col-lg-3 col-md-6">
+            <div class="main-card">
+              <img src="img/logo/m.word.png" class="rounded" alt="...">
+              <p>{{skill01}}</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="main-card">
+              <img src="img/logo/html.png" class="rounded" alt="...">
+              <p>{{skill02}}</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="main-card">
+              <img src="img/logo/css.png" class="rounded" alt="...">
+              <p>{{skill03}}</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="main-card">
+              <img src="img/logo/figma.png" class="rounded" alt="...">
+              <p>{{skill04}}</p>
+            </div>
+            </div>
+            <div class="row gambar-skills">
+              <div class="col-lg-3 col-md-6">
+                <div class="main-card">
+                  <img src="img/logo/python.png" class="rounded" alt="...">
+                  <p>{{skill05}}</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6">
+                <div class="main-card">
+                  <img src="img/logo/spss.png" class="rounded" alt="...">
+                  <p>{{skill06}}</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6">
+                <div class="main-card">
+                  <img src="img/logo/sql.png" class="rounded" alt="...">
+                  <p>{{skill07}}</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6">
+                <div class="main-card">
+                  <img src="img/logo/sig.png" class="rounded" alt="...">
+                  <p>{{skill08}}</p>
+                </div>
+          </div>
+        </div>
+      </div>
+    </section>
+<!-- Akhir Skill -->
+
+<!-- Project -->
+    <section id="project">
+      <div class="container-fluid">
+        <div class="title-project">
+          <h1 class="project-isi">{{project.judul1}} <span>{{project.judul2}}</span></h1>
+        </div>
+      </div>
+      <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+        <div class="carousel-inner justify-content-center">
+          <div class="carousel-item active justify-content-center d-flex">
+            <a href="https://www.figma.com/file/Hsc5ImOKD9tmj5OlXNet2d/Prototype-Trefesta-Co.?node-id=0%3A1" target="blank"><img src="img/bbb.png" class="d-block w-85 img-fluid" alt="Engxzu"></a>
+          </div>
+          <div class="carousel-item justify-content-center d-flex">
+            <a href="https://sheiladesw.github.io/StartEFH_SisthreehoodTeam/" target="blank"><img src="img/ccc.png" class="d-block w-85 img-fluid" alt="Korean-Food"></a>
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Sebelumnya</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Selanjutnya</span>
+        </button>
+      </div>
+    </section>
+<!-- Akhir Project -->
+  
+<!-- Artikel -->
+  <section id="Artikel">
+    <div class="blog">
+      <div class="container">
+        <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
+          <h2>{{artikel.judul}}</h2>
+        </div>
+        <div class="row blog-page align-item-center">
+
+          <div v-for="artikel in artikel.list_artikel" class="col-lg-4 wow fadeInUp" data-wow-delay="0.0s">
+            <div class="blog-item">
+              <div class="blog-img">
+                <img :src="artikel.url" alt="Blog">
+              </div>
+              <div class="blog-text">
+                <h2>{{artikel.judul}}</h2>
+                <div class="blog-meta">
+                  <p><i class="fas fa-user-edit"></i> {{artikel.author}}</p>
+                  <p><i class="far fa-calendar-alt"></i> {{artikel.tanggal}}</p>
+                  <p><i class="fas fa-camera-retro"></i> {{artikel.Sumber}}</p>
+                </div>
+                <p>{{artikel.desc}}</p>
+                <a class="btn" :href="'./baca.html?nama_artikel='+artikel.artikelnya">BACA SELENGKAPNYA.. <i
+                    class="fa fa-angle-right"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Akhir Artikel -->
+
+  <!-- Footer -->
+  <footer class="text-center text-lg-start">
+    <div class="text-center p-3 footer" style="background-color: rgba(0, 0, 0, 0.2);">
+      By
+      <a class="text-dark" href="#/">Sheila Deswita Ariyanto</a>
+    </div>
+  </footer>
+  <!-- Akhir Footer -->
+
+  <!-- Script penghubung ke JS-->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>  
+  <script src="https://unpkg.com/vue@3"></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.0.3/showdown.min.js"></script>
+  <script src="./js/main.js"></script>
+  <!-- Akhir -->
+</body>
+</html>

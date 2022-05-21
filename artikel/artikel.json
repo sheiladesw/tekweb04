@@ -1,0 +1,38 @@
+[
+    {
+        "url": "./img/artikel01.png",
+        "judul": "Quarter Life Crisis ",
+        "author": "alodokter",
+        "tanggal": "12 November 2020",
+        "Sumber": "Pinteres",
+        "desc": "Saat seseorang berusia 18–30 tahun merasa tidak memiliki arah, khawatir, bingung, dan galau akan ketidakpastian",
+        "artikelnya": "artikel1.md"
+    },
+    {
+        "url": "./img/artikel02.png",
+        "judul": "Opini-Generasi Muda Berkualitas Anti-NAPZA",
+        "author": "Sheila Deswita Ariyanto",
+        "tanggal": "19-Agustus-2021",
+        "Sumber": "Canva",
+        "desc": "Penyalahgunaan NAPZA sudah menjadi momok bagi masyarakat dan pemerintah sebagai wabah.. ",
+        "artikelnya": "artikel2.md"
+    },
+    {
+        "url": "./img/artikel03.png",
+        "judul": "Marketing Communication",
+        "author": "Sheila Deswita Ariyanto",
+        "tanggal": "19-Agustus-2021",
+        "Sumber": "Pinteres",
+        "desc": "Marketing communication mengacu pada sarana yang diadopsi oleh perusahaan untuk .. ",
+        "artikelnya": "artikel3.md"
+    },
+    {
+        "url": "http://econochannelfeunj.com/wp-content/uploads/2021/08/quarter-life-crisis-cover-1360x850-1.png",
+        "judul": "Resto Kopi Konsep Unik di Kutabumi, Incaran Kaum Milenial",
+        "author": "wartabanten.id",
+        "tanggal": "16-Maret-2021",
+        "Sumber": "pinteres",
+        "desc": "Kopi awalnya dicap sebagai minuman orang tua, kini banyak diminati anak muda. Semua tampilan ",
+        "artikelnya": "artikel4.md"
+    }
+]
