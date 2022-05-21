@@ -1,38 +1,53 @@
 [
+
     {
-        "url": "./img/artikel01.png",
-        "judul": "Quarter Life Crisis ",
-        "author": "alodokter",
-        "tanggal": "12 November 2020",
-        "Sumber": "Pinteres",
-        "desc": "Saat seseorang berusia 18–30 tahun merasa tidak memiliki arah, khawatir, bingung, dan galau akan ketidakpastian",
+        "hapus aja": "Bagian yang ini nanti hapus aja yaa, ini cuman buat contoh aja, biar kalian rada paham dikiit, oiyaa hapusnya mulai dari tanda {}, nya yaa soalnya json sensitif banget, kalo ada salah dikit, bakal buyer semuaa, tihatii kalo mo hapuss, makacii :)",
+
+        "url": "./img/pic01.jpeg",
+        "judul": "Disini Buat judulnya yaa",
+        "author": "Ini buat nama penulisnyaa",
+        "tanggal": "Nha, ini tanggalnya",
+        "Sumber": "",
+        "desc": "",
+        "artikelnya": "contoh.md"
+    },
+
+
+
+    {
+        "url": "./img/pic01.jpeg",
+        "judul": "Emm, judulnya apayaaaa",
+        "author": "Sheila dongg penulisnyaa",
+        "tanggal": "11-Maret-2022",
+        "Sumber": "Detik.com",
+        "desc": "Pada bagian ini akan berisi sebuah cerita (COMMING SOON)",
         "artikelnya": "artikel1.md"
     },
     {
-        "url": "./img/artikel02.png",
-        "judul": "Opini-Generasi Muda Berkualitas Anti-NAPZA",
-        "author": "Sheila Deswita Ariyanto",
-        "tanggal": "19-Agustus-2021",
-        "Sumber": "Canva",
-        "desc": "Penyalahgunaan NAPZA sudah menjadi momok bagi masyarakat dan pemerintah sebagai wabah.. ",
+        "url": "./img/pic02.jpeg",
+        "judul": "Emm, judulnya apayaaaa - part 2",
+        "author": "emm Bukan sheila penulisnyaa",
+        "tanggal": "12-Maret-2023",
+        "Sumber": "Bakwan-Kawi-enak.co.id",
+        "desc": "Man Found Having Tea Party With Maggot Again.",
         "artikelnya": "artikel2.md"
     },
     {
-        "url": "./img/artikel03.png",
-        "judul": "Marketing Communication",
-        "author": "Sheila Deswita Ariyanto",
-        "tanggal": "19-Agustus-2021",
-        "Sumber": "Pinteres",
-        "desc": "Marketing communication mengacu pada sarana yang diadopsi oleh perusahaan untuk .. ",
+        "url": "./img/pic03.jpeg",
+        "judul": "Disini Buat judulnya yaa",
+        "author": "Ini juga bukaan",
+        "tanggal": "13-Maret-2022",
+        "Sumber": "Seputar-kita.net",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "artikelnya": "artikel3.md"
     },
     {
-        "url": "http://econochannelfeunj.com/wp-content/uploads/2021/08/quarter-life-crisis-cover-1360x850-1.png",
-        "judul": "Resto Kopi Konsep Unik di Kutabumi, Incaran Kaum Milenial",
-        "author": "wartabanten.id",
-        "tanggal": "16-Maret-2021",
-        "Sumber": "pinteres",
-        "desc": "Kopi awalnya dicap sebagai minuman orang tua, kini banyak diminati anak muda. Semua tampilan ",
+        "url": "./img/pic04.jpeg",
+        "judul": "Emm, judulnya apayaaaa - part 3",
+        "author": "Ini buat nama penulisnyaa",
+        "tanggal": "14-Maret-2022",
+        "Sumber": "gatau-lagi.net",
+        "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
         "artikelnya": "artikel4.md"
     }
 ]

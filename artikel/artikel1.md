@@ -1,63 +1,57 @@
-# Memahami Quarter Life Crisis dan Cara Menghadapinya
+# Ini buat Judul artikelnya - Artikel 1
  
 ---
 
-###### Terakhir diperbarui: 12 November 2020
-###### dr. Meva Nareza | alodokter.com
+##### 12-Oktober-2022
+##### Nama Penulisnyaaa
 
-[Lihat Artikel asli.](https://www.alodokter.com/memahami-quarter-life-crisis-dan-cara-menghadapinya)
+[Pergi ke Artikel asli.](https://news.detik.com/berita/d-6075338/golkar-pan-ppp-sepakat-bentuk-koalisi-bertiga-bersatu-di-pemilu-2024)
 
+<!-- kalo mau ngasi gambar ke artikelnya -->
+![ini buat pas Alt nya](https://i.insider.com/602ee9ced3ad27001837f2ac?width=700)
+<!-- Atau ini juga bisa, bebass -->
+<img src="https://i.insider.com/602ee9ced3ad27001837f2ac?width=700"
+     alt="Markdown Monster icon"
+     style="width: 80%" />
+<!-- Kalo mau ngasi link ke artikelnya -->
+[Buat teksnya](https://www.youtube.com/watch?v=iik25wqIuFo)
 
-<!-- Foto artikel -->
-<p align="center">
-  <img alt="jenis-jenis napza" 
-     src= "http://econochannelfeunj.com/wp-content/uploads/2021/08/quarter-life-crisis-cover-1360x850-1.png"
-     width="500">
-  <br>
-</p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae leo et ipsum malesuada luctus non in lorem. Nulla laoreet molestie purus, sed posuere tellus consequat sit amet. Aliquam semper sapien in justo tristique, vel elementum felis pretium. Vestibulum vitae condimentum nunc. Suspendisse potenti. Vestibulum ultrices neque id quam consequat sagittis. Sed pharetra nibh lorem, eget faucibus nibh euismod sit amet. Aliquam erat volutpat. Curabitur pharetra libero et tellus rutrum imperdiet. Vivamus luctus ligula quis lacus maximus dignissim eu et est. Aliquam tincidunt orci in nunc cursus aliquet. Vivamus lectus est, blandit ut neque ac, fringilla tincidunt velit. Nunc placerat erat nisl, at fermentum diam cursus sed. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum eu arcu scelerisque, varius neque a, vehicula ex.
 
-Dewasa ini, istilah quarter life crisis makin banyak digunakan. Namun, mungkin banyak dari kita yang belum begitu paham apa sebenarnya quarter life crisis itu, bagaimana tanda-tandanya, dan cara menghadapinya. Simak penjelasan lengkap mengenai quarter life crisis pada artikel ini.
+Suspendisse pretium ex suscipit, tempor enim a, ultricies arcu. Donec et sem volutpat, auctor mi a, volutpat sem. In porta lorem vitae justo porttitor, in luctus enim dignissim. Mauris ac dolor maximus, cursus libero id, faucibus dolor. Nam a arcu sem. Vestibulum semper leo nisi, non vehicula quam dictum vel. Nunc sit amet tellus libero. Nulla maximus sem sed erat euismod, eget egestas metus suscipit. Aenean mattis vehicula lorem, sit amet ornare metus ultrices quis. Nulla malesuada dignissim tristique. Nulla facilisi. Pellentesque id eros ut neque consectetur rhoncus. Vestibulum laoreet diam ut elit fringilla fringilla. Fusce dapibus viverra sem. Aliquam erat volutpat. Aenean vestibulum laoreet tortor non aliquam.
 
-Quarter life crisis atau krisis seperempat abad adalah periode saat seseorang berusia 18–30 tahun merasa tidak memiliki arah, khawatir, bingung, dan galau akan ketidakpastian kehidupannya di masa mendatang. Umumnya, kekhawatiran ini meliputi masalah relasi, percintaan, karier, dan kehidupan sosial. Tidak hanya itu, orang yang mengalami quarter life crisis bahkan kerap mempertanyakan eksistensinya sebagai seorang manusia. Ada juga orang yang sampai merasa bahwa dirinya tidak memiliki tujuan hidup.
+Donec vitae pharetra nisl, iaculis blandit magna. Nunc eu lorem id tellus mollis imperdiet nec in ipsum. Praesent maximus dui at felis tristique, in hendrerit magna pharetra. Fusce ac lacinia augue. Pellentesque sit amet arcu pretium, aliquam erat eget, dapibus ante. Aliquam convallis egestas facilisis. Ut ante metus, ullamcorper ut ipsum et, molestie malesuada mi. Donec pulvinar orci venenatis odio faucibus feugiat. Nam a condimentum nibh, ac mollis est. Suspendisse sit amet volutpat urna. Sed ac dolor luctus, placerat arcu ut, ornare tellus. Morbi ac nulla interdum, malesuada nibh sit amet, suscipit dui. Nulla facilisi. Mauris sodales sodales erat id convallis. Mauris non luctus magna.
 
-##### Penyebab Quarter Life Crisis
-Quarter life crisis biasanya dimulai bila ada masalah “orang dewasa” yang muncul pertama kalinya pada hidup seorang dewasa muda. Ada beberapa kondisi yang sering memicu terjadinya quarter life crisis, di antaranya:
-1. Mengalami masalah pekerjaan atau finansial
-2. Merencanakan karier dan masa depan
-3. Menjalani hidup mandiri untuk pertama kalinya
-4. Menjalani hubungan romantis yang serius untuk pertama kalinya
-5. Mengalami putus cinta setelah menjalani hubungan yang serius sekian lama
-6. Melihat teman sebaya sudah mencapai impiannya lebih dulu
-7. Membuat keputusan pribadi atau profesional yang akan bertahan dalam jangka waktu yang lama
+Nulla eu odio arcu. Vivamus eu felis nec diam sollicitudin fringilla sed a dui. Mauris lectus turpis, venenatis sed orci sit amet, hendrerit rhoncus sapien. Vivamus vulputate massa felis, id porta tellus ullamcorper vitae. Curabitur feugiat convallis dapibus. Duis euismod eleifend condimentum. Suspendisse ut dolor convallis, fringilla dui a, malesuada ligula. Proin sollicitudin ultricies quam, sodales tempor dolor efficitur sit amet. Duis faucibus rhoncus quam, eget pharetra erat tincidunt quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin tincidunt vestibulum arcu, sit amet auctor est pretium eget. Phasellus rhoncus urna id eros cursus fermentum. Maecenas nisl odio, dapibus quis bibendum vel, fermentum et massa. Nulla sed posuere purus.
 
-##### Tanda-Tanda Quarter Life Crisis
-Berikut ini adalah beberapa hal yang bisa menjadi tanda seseorang sedang mengalami quarter life crisis:
-•	Sering merasa bingung mengenai masa depannya
-•	Merasa terjebak dalam situasi yang tidak disukai
-•	Sulit membuat keputusan ketika dihadapkan dengan beberapa pilihan
-•	Kurang motivasi dalam menjalani aktivitas sehari-hari
-•	Sulit menentukan apakah harus menjalani hidup sesuai dengan keinginan diri sendiri atau sesuai dengan tuntutan keluarga dan masyarakat
-•	Khawatir akan tertinggal dalam ketidakpastian hidup seorang diri
-•	Merasa iri dengan teman sebaya yang sudah lebih dulu mencapai impiannya
+Ut scelerisque, diam dignissim condimentum sodales, justo turpis porttitor nulla, nec finibus ligula lectus nec eros. Nulla eget elementum risus, at auctor ligula. Vivamus vitae diam metus. Vivamus aliquam malesuada eleifend. Proin lacinia, sem vitae vestibulum pretium, orci quam interdum ipsum, ut pulvinar nibh magna a arcu. Suspendisse at arcu commodo, accumsan neque a, fermentum augue. Integer blandit lacus vitae posuere luctus. Phasellus at dolor interdum, tincidunt turpis ut, lacinia ipsum. Vivamus ullamcorper ante tortor, eu laoreet mauris consectetur at. Pellentesque sit amet rhoncus velit. Cras lobortis sagittis sapien, non semper lorem. Pellentesque metus est, facilisis eu ornare sed, posuere et quam. Cras nec nibh at est sodales tincidunt quis hendrerit nunc. Donec elementum orci erat, nec accumsan enim porta eu. Nunc imperdiet dui ac lorem maximus iaculis a quis lorem. Quisque semper et tortor hendrerit maximus.
 
-##### Cara Menghadapi Quarter Life Crisis
-Sebenarnya wajar jika Anda mengalami quarter life crisis. Namun, ini tidak boleh dianggap remeh, karena bila tidak dihadapi dengan bijak, quarter life crisis bisa berubah menjadi depresi. Untuk menghadapi quarter life crisis, ada beberapa hal yang bisa Anda lakukan, antara lain:
+Ut lacinia nisi at eleifend ultricies. Curabitur efficitur posuere odio vitae accumsan. Cras nibh erat, bibendum lobortis laoreet sed, auctor non lorem. Duis ac tortor non nulla semper maximus id fermentum augue. Quisque accumsan ut lectus in commodo. Vestibulum felis massa, elementum quis tellus a, auctor fringilla ex. Praesent ut dolor vulputate, interdum nulla id, pellentesque mauris. Pellentesque eget rutrum est. Maecenas eget tincidunt leo.
 
-###### 1. Berhenti membandingkan diri dengan orang lain
-Membandingkan diri dengan orang lain hanya akan membuang-buang waktu dan membuat Anda semakin khawatir. Alih-alih memikirkan kehidupan orang lain, mulailah cari tahu apa yang sebenarnya Anda inginkan dalam hidup. 
-Namun, tanamkan dalam pikiran Anda bahwa jawabannya mungkin tidak akan langsung ada. Fokus saja dengan bagaimana Anda bisa melewati satu hari dengan sebaik-baiknya. Yakinlah bahwa Anda perlahan-lahan akan mengetahui keinginan dan tujuan Anda, bahkan mungkin tanpa Anda sadari.
+Etiam nec nunc tortor. Cras dignissim arcu rutrum mi porta aliquam. Integer mattis ipsum sit amet dui auctor, quis facilisis augue placerat. Pellentesque arcu arcu, bibendum interdum nulla sit amet, eleifend gravida erat. Quisque tempor eu tellus vitae convallis. Donec gravida, lectus id tincidunt imperdiet, sem elit semper neque, at vehicula nulla libero sed metus. Etiam in lacus luctus, ultricies lacus nec, cursus augue. Phasellus vel orci vel purus lacinia congue non non eros. Phasellus ac tempor ligula, et dapibus eros. Mauris quis ultrices elit. Vivamus eget ex semper, ultricies velit tempor, luctus ipsum. Curabitur vitae rhoncus enim, eu ultrices felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus iaculis lacus vitae arcu varius, nec mattis sapien efficitur. Proin sit amet lorem vitae nibh euismod tempus in eget ipsum.
 
-###### 2. Ubah keraguan menjadi tindakan
-Ketika Anda bingung akan suatu hal dalam hidup, jadikan itu kesempatan untuk menemukan tujuan baru. Isi hari-hari Anda dengan hal-hal positif untuk menemukan jawaban atas keraguan Anda, hingga akhirnya jawaban tersebut datang dengan sendirinya. Misalnya, Anda bingung karena merasa tidak cocok dengan pekerjaan. Di samping tetap menjalankan tanggung jawab Anda dalam bekerja, Anda bisa mulai mengisi waktu luang dengan relaksasi, menambah wawasan, mencari kelas online untuk menambah keterampilan, atau mengobrol dengan teman untuk mendapatkan solusi.
+Nam suscipit, arcu vel aliquet condimentum, nibh nisl finibus mi, ac rhoncus sapien risus vel libero. Sed consectetur accumsan est, non efficitur ligula interdum a. Nunc et metus vitae magna hendrerit pharetra sit amet ut tortor. Ut venenatis hendrerit mi sit amet lacinia. Phasellus a rhoncus nunc. Nulla mattis, odio a varius facilisis, nibh neque condimentum urna, venenatis auctor neque arcu sit amet ante. Donec vel neque in felis bibendum volutpat. Curabitur sed ex velit. Ut imperdiet fringilla erat, eget dapibus risus facilisis id.
 
-###### 3. Temukan orang-orang yang bisa mendukung Anda
-Berada di sekeliling orang-orang yang bisa mendukung impian dan cita-cita Anda juga bisa menjadi cara untuk menghadapi quarter life crisis. Carilah orang-orang yang memiliki minat yang sama dengan Anda, atau orang-orang yang bisa menginspirasi dan membuat Anda menjadi orang yang lebih baik. Dengan begitu, Anda tidak akan merasa sendiri dalam menjalani hidup.
+Suspendisse commodo imperdiet tortor, at pellentesque purus fringilla in. Duis auctor, tellus et lobortis consectetur, massa diam varius ex, vitae aliquam neque purus eu sem. Aenean eleifend velit feugiat, vulputate lacus non, viverra orci. Nulla facilisi. Cras luctus aliquam lacus, eget cursus sapien pellentesque sit amet. Aliquam et dictum sapien, eleifend tincidunt enim. Suspendisse eget arcu quis lacus tristique aliquet quis eu orci. Duis luctus mollis eros sit amet egestas. Etiam tortor dui, pretium eu turpis et, ultricies porttitor urna. Maecenas facilisis augue vel scelerisque consectetur. Nunc nec scelerisque ipsum. Integer molestie ligula sit amet condimentum dignissim. Ut non venenatis orci.
 
-###### 4. Belajar mencintai diri sendiri
-Ketika sedang terjebak dalam quarter life crisis, Anda mungkin akan cenderung mengabaikan berbagai kenikmatan yang sebenarnya Anda miliki. Padahal, untuk mencapai tujuan dalam hidup, Anda perlu menghargai dan mencintai diri Anda terlebih dahulu.
+Nam augue nisl, semper eget varius quis, sollicitudin blandit erat. Mauris laoreet dignissim est id dignissim. Sed gravida efficitur malesuada. Maecenas tempus, lorem in molestie ornare, purus erat iaculis lorem, nec faucibus nisi nisl et mauris. Nulla gravida molestie tellus iaculis ullamcorper. Sed sagittis nunc eleifend quam blandit sagittis. Sed vestibulum efficitur erat, et ultricies dolor. Nullam quis lorem augue. Cras non libero orci. Aenean cursus sollicitudin leo, sit amet ullamcorper metus rutrum eu. Curabitur risus lacus, auctor non feugiat at, blandit ut lectus.
 
-   Jadi, mulailah perhatikan kebutuhan Anda, apa yang Anda suka, apa yang membuat Anda nyaman, dan apa yang ingin Anda coba lakukan. Kemudian, wujudkan mereka satu per satu passion Anda dimulai dari yang kecil terlebih dahulu. Tanpa Anda sadari, hal-hal kecil ini akan membuat hidup Anda lebih menyenangkan.
+Cras convallis eros sed ex mollis, in aliquam neque rhoncus. Vivamus at convallis lectus. Fusce blandit commodo finibus. Ut maximus ante vitae cursus imperdiet. Quisque sollicitudin ligula id ultrices euismod. Nam luctus nisi massa, eget congue nisi pulvinar ut. Suspendisse ut enim et justo lobortis venenatis sed sollicitudin felis. Pellentesque sit amet quam at magna ultricies sodales.
 
-Quarter life crisis bisa menyerang siapa saja, karena sesungguhnya masalah dalam hidup adalah sesuatu yang sangat wajar. Dalam menghadapi fase ini, Anda membutuhkan fisik dan mental yang kuat supaya krisis ini tidak berlanjut lebih jauh.
+Nullam dictum congue purus id maximus. Curabitur dapibus sit amet ante id porttitor. In non felis convallis, pretium nibh vel, aliquet nulla. Curabitur vel tincidunt libero, ac pretium nibh. Fusce mollis nibh eu libero volutpat, et dignissim velit sagittis. Aenean rhoncus purus a tempor facilisis. Proin auctor leo ac urna semper posuere. Proin augue elit, vestibulum vel pharetra nec, vehicula quis nulla. Fusce laoreet porttitor nunc a placerat. Pellentesque id mi eget ex feugiat ornare imperdiet in turpis. Nam tincidunt, mauris sed tincidunt interdum, magna massa tincidunt elit, et interdum nisl odio nec dolor.
 
-Oleh karena itu, selain memperhatikan kebutuhan jiwa Anda, jangan lupa juga untuk merawat diri, berolahraga, dan mengonsumsi makanan yang bergizi untuk kesehatan tubuh. Apabila Anda masih mengalami kesulitan dalam menghadapi quarter life crisis, jangan ragu untuk berkonsultasi dengan psikolog atau psikiater.
+Integer nec purus quis nisi euismod dictum. Quisque augue arcu, lacinia vel convallis et, scelerisque ac tortor. Praesent at libero venenatis, pellentesque orci eu, tincidunt metus. Curabitur sed nisi non ex finibus aliquet. Proin et justo at neque elementum consectetur. Vivamus semper pretium orci ut laoreet. Quisque nisl est, facilisis sit amet lacinia vel, consectetur egestas lorem. Etiam fringilla nibh eget justo vehicula pellentesque. Aenean id mi ut lorem congue pharetra a sed libero.
+
+In laoreet vehicula ex at maximus. Phasellus iaculis orci vel mauris aliquam consequat. Praesent scelerisque lacus erat, eget eleifend leo facilisis in. Integer sit amet erat aliquet, mattis risus eu, varius dolor. Nulla suscipit, felis a pharetra sagittis, odio orci accumsan nisi, id congue arcu magna in nisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. In maximus accumsan volutpat. Nunc tempus eu urna eu tempus. Proin tortor eros, hendrerit nec posuere sit amet, sodales vel quam. Donec in sem pulvinar, consectetur lectus at, pharetra odio. Aliquam ac tristique felis. Fusce molestie consequat nisi ac imperdiet. Aenean blandit mattis turpis non consectetur.
+
+Nunc congue est ut enim vestibulum pulvinar. Sed rhoncus erat et iaculis dapibus. Praesent porttitor congue lectus, nec convallis velit cursus non. Aenean sit amet erat dictum, scelerisque purus mattis, tempus arcu. Nullam volutpat ante ac enim fermentum mollis. Nullam ullamcorper, lacus eget egestas iaculis, lectus orci consectetur risus, a rutrum ex ipsum id purus. Integer semper ex erat. Nulla nec velit maximus elit feugiat tincidunt vel eu arcu. Integer sed sapien at leo feugiat dictum. Phasellus semper aliquet lacus quis tincidunt. Praesent iaculis hendrerit ex at convallis. Integer dui ante, dapibus ac tortor nec, lobortis dignissim nulla. Phasellus tempor velit vel tempus mattis. Nam consectetur congue mi, a tempor mi. Quisque a est sodales, porta ligula eu, pretium risus. Proin et mauris et ante semper efficitur.
+
+Donec aliquet in mi eget elementum. Donec eu tellus lorem. Ut at accumsan quam. Ut maximus urna nibh, nec porttitor ligula iaculis non. Nam sed ex vel orci porta fermentum. Ut sit amet diam ut ex tincidunt interdum a ut urna. Fusce cursus est sapien, ac porta magna tincidunt a. Quisque id ante tempor, dictum odio eu, posuere purus. Aenean feugiat, libero sit amet euismod efficitur, leo eros congue massa, non finibus ipsum purus eget mauris. In vel lectus tempus, sagittis quam vitae, condimentum nibh. Morbi malesuada tempus congue. Integer vulputate volutpat nunc, pellentesque consectetur erat mattis et. In condimentum eget nisl porttitor dapibus. Sed elementum posuere metus, eget rhoncus lectus tristique eu. Praesent quis tellus et nulla congue scelerisque et eu tortor. Sed consequat tempus mauris, a ullamcorper dolor.
+
+Phasellus congue turpis pellentesque ante elementum, nec ultricies tellus volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum non eros sit amet purus tincidunt consequat. Phasellus odio sapien, ornare eu nibh ut, pulvinar fermentum ipsum. Sed augue magna, accumsan eget luctus eget, convallis et purus. Quisque facilisis condimentum vestibulum. Phasellus lectus leo, vulputate sed ante a, aliquam blandit justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc dignissim est bibendum diam ultricies, nec aliquam mi pulvinar. Nam eget eros ornare, feugiat libero at, sodales arcu. Phasellus a ligula lorem. Nullam sagittis scelerisque varius.
+
+Curabitur a felis vulputate, dapibus nisl eget, pulvinar magna. Nunc imperdiet tellus et pulvinar pellentesque. Cras ac libero in purus porta eleifend ut at arcu. Phasellus sit amet interdum lorem, eget posuere urna. Curabitur fermentum tempus nisl eu feugiat. Maecenas euismod aliquam sem eu pellentesque. Etiam id lobortis orci. Nunc consectetur lorem ac quam mattis rhoncus. Ut tincidunt diam quis sapien imperdiet porta. Suspendisse dolor purus, iaculis a sem nec, elementum vestibulum magna. Fusce mattis commodo condimentum. Sed vehicula, tortor vel luctus luctus, elit urna sodales orci, in sollicitudin turpis diam vitae elit. Aliquam vel urna luctus, placerat erat sit amet, venenatis lacus. Sed mauris sapien, accumsan id accumsan ac, finibus a augue. Nullam pellentesque elementum nisl vitae tristique. Fusce id porta lorem.
+
+Aliquam luctus ante ac risus tincidunt laoreet. Suspendisse laoreet id ligula a scelerisque. Nulla dictum efficitur dictum. Phasellus condimentum pharetra velit. Cras ornare ornare erat, vitae mattis ipsum auctor eget. Etiam leo turpis, iaculis eget egestas ut, facilisis ac neque. Aliquam mattis libero massa, vitae maximus neque convallis vulputate. In pellentesque mollis urna. Morbi arcu tellus, ornare a vehicula ut, imperdiet in turpis. Cras volutpat tellus augue, sit amet posuere metus lacinia ac. Maecenas et vehicula urna, eget tempus turpis. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent non velit a felis dignissim scelerisque.
+
+Curabitur auctor diam ac aliquam pharetra. Vestibulum in tempus lectus. Pellentesque at sapien aliquam, volutpat tortor ut, viverra sapien. Phasellus ut cursus ligula, non sodales felis. Phasellus vel massa libero. Pellentesque mattis tortor sed lacus luctus, vitae pharetra orci porttitor. Proin eu finibus ligula. Integer sollicitudin felis sit amet leo aliquam luctus. Proin interdum tempus libero elementum tincidunt. In hac habitasse platea dictumst. Sed ultricies nisl quis auctor euismod. Integer et ligula nec velit fermentum volutpat. Sed sit amet nunc a eros rhoncus tristique ut tempus dolor. Sed felis mi, vehicula non ante ac, euismod consectetur orci. Proin eu rutrum massa. Nunc ac ornare mi, vitae molestie nisi.
